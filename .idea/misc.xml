@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <entry_points version="2.0">
+      <entry_point TYPE="field" FQNAME="com.saurabhawathare.recylerview01.RecyclerContactAdapter context" />
+    </entry_points>
+    <pattern value="com.saurabhawathare.recylerview01.ExampleUnitTest" method="addition_isCorrect" />
+    <pattern value="com.saurabhawathare.recylerview01.ExampleInstrumentedTest" />
+    <pattern value="com.saurabhawathare.recylerview01.ExampleUnitTest" />
+    <pattern value="com.saurabhawathare.recylerview01.MainActivity" />
+    <pattern value="com.saurabhawathare.recylerview01.RecyclerContactAdapter" />
+    <pattern value="com.saurabhawathare.recylerview01.ExampleInstrumentedTest" method="useAppContext" />
+    <pattern value="com.saurabhawathare.recylerview01.ContactModel" />
+    <pattern value="com.saurabhawathare.recylerview01.ContactModel" method="ContactModel" />
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
